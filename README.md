@@ -2,8 +2,6 @@
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Workbench&pause=1000&color=0E8D38&background=FF2F5200&random=false&width=435&lines=Selenium" alt="Typing SVG" /></a>
 
-
-  (https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372372861/week.md)
   
   <h2 align="left">Softwares I Know:</h2>
 <p align="left">
